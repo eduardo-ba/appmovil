@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Appunidad02_43_2025</string>
+    <string name="srtacercade">Acerca de</string>
+    <string name="srtInicio">Inicio</string>
+    <string name="srtAlumnos">Crud Alumno</string>
+    <string name="srtLista">Lista de Alumnos</string>
+    <string name="srtSalir">Salir de la App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

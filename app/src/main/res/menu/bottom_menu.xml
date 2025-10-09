@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnInicio"
+        android:icon="@drawable/outlie_inicio"
+        android:title="@string/srtInicio">
+    </item>
+
+    <item
+        android:id="@+id/btnAcercaDe"
+        android:icon="@drawable/outline_acercade"
+        android:title="@string/srtacercade">
+    </item>
+
+
+    <item
+        android:id="@+id/btnAlumnos"
+        android:icon="@drawable/outline_alumnos"
+        android:title="@string/srtAlumnos">
+    </item>
+
+    <item
+        android:id="@+id/btnLista"
+        android:icon="@drawable/outline_lista"
+        android:title="@string/srtLista">
+    </item>
+
+    <item
+        android:id="@+id/btnSalir"
+        android:icon="@drawable/outline_salir"
+        android:title="@string/srtSalir">
+    </item>
+
+
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondoAcercade">#64FFDA</color>
+    <color name="fondoInicio">#E0440F</color>
+    <color name="fondoCrud">#64FFDA</color>
+    <color name="fondoLista">#E65100</color>
+    <color name="fondoSalir">#FF1744</color>
+    <color name="fondoContenedor">#FFEA00</color>
+</resources>
