@@ -7,4 +7,20 @@
     <string name="srtSalir">Salir de la App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings de Fragment Alumnos -->
+    <string name="strMatriculaA">Matrícula</string>
+    <string name="strNombreA">Nombre</string>
+    <string name="strDomicilio">Domicilio</string>
+    <string name="strEspecialidad">Especialidad</string>
+    <string name="txtMatricula">Ej. A12345</string>
+    <string name="txtNombres">Paterno, Materno, Nombres</string>
+    <string name="txtDomicilio">Calle # Colonia CP</string>
+    <string name="txtGrado">Grado, Licenciatura o Ing.</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnBorrar">Borrar</string>
+
+
+
 </resources>

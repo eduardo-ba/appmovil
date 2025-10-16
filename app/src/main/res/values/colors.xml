@@ -8,4 +8,17 @@
     <color name="fondoLista">#E65100</color>
     <color name="fondoSalir">#FF1744</color>
     <color name="fondoContenedor">#FFEA00</color>
+
+
+    <!-- Fragment Alumnos -->
+    <color name="azul_fondo">#0D47A1</color>
+    <color name="azul_oscuro">#1565C0</color>
+    <color name="azul_medio">#1E88E5</color>
+    <color name="azul_claro">#64B5F6</color>
+    <color name="azul_muy_claro">#BBDEFB</color>
+    <color name="azul_texto">#0D47A1</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+
+
 </resources>
