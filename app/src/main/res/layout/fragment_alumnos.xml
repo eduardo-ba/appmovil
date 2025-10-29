@@ -109,7 +109,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/bg_edittext_azul"
-                android:hint="@string/srtAlumnos"
+                android:hint="URL foto"
                 android:textColor="@color/azul_texto"
                 android:textColorHint="@color/azul_claro" />
             <!-- Botones -->
@@ -148,9 +148,19 @@
                     android:layout_weight="1"
                     android:backgroundTint="@color/azul_medio"
                     android:text="@string/btnBorrar"
-                    android:textColor="@color/blanco" />
+                    android:textColor="@color/blanco">
+                </Button>
 
             </LinearLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Limpiar"
+                android:backgroundTint="@color/azul_medio"
+                android:textStyle="bold"
+                android:id="@+id/btnLimpiar">
+
+            </Button>
         </LinearLayout>
 
     </FrameLayout>
