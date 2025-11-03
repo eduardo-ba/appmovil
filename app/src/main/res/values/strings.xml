@@ -20,6 +20,8 @@
     <string name="btnGuardar">Guardar</string>
     <string name="btnBuscar">Buscar</string>
     <string name="btnBorrar">Borrar</string>
-
-
+    <string name="strBuscarA">Buscar Alumno</string>
+    <string name="strCarreraA">Carrera</string>
+    <string name="strLista">Lista de Alumnos"</string>
+    <string name="strFotoDes">Foto de Alumno</string>
 </resources>

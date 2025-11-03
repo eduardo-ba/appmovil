@@ -60,4 +60,8 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction().replace(R.id.frmContenedor, fragment).commit()
 
     }
+    fun seleccionarItemDelMenu(itemId: Int) {
+        BottomNavigationView.selectedItemId = itemId
+    }
+
 }

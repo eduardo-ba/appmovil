@@ -170,6 +170,7 @@ class AlumnosFragment : Fragment() {
                             txtNombre.setText("")
                             txtDomicilio.setText("")
                             txtEspecialidad.setText("")
+                            txtFoto.setText("")
                             imgFoto.setImageResource(R.drawable.alumno)
                             imgFoto.tag = null
                     } else {
