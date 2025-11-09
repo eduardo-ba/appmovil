@@ -55,7 +55,7 @@ class AlumnoDB (private val context : Context) {
     }
 
     fun mostrarAlumno(cursor: Cursor): Alumno{
-        if (cursor.moveToFirst()) {
+        if (!cursor.isAfterLast && cursor.count > 0) {
             return Alumno().apply {
                 id = cursor.getInt(0)
                 matricula = cursor.getString(1)
